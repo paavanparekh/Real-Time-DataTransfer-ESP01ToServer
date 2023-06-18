@@ -39,7 +39,8 @@ void setup() {
 void loop() {
   
  
-  
+  // we can take  input from Sensors for below values of Temperature, Humidity, etc. 
+  // For testing purpose, i have hard-coded values.        
   String data;
   int node_id = 1;
   float temperature = 23.05;
